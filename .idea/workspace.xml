@@ -7,37 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="633505ca-c4ab-44a5-8657-859de5d8e76d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC004.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/bean/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/interceptor/LoginIntercetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/mapper/CustomerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/mapper/CustomerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/service/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swjd/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/logOne.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/logTwe.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-1.11.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/spring-mvc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/SpringMVC004/META-INF/MANIFEST.MF" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/SpringMVC004/WEB-INF/classes/META-INF/SpringMVC004.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/SpringMVC004/WEB-INF/classes/applicationContext.xml" afterDir="false" />
@@ -145,7 +115,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/swjd/controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="176">
               <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -532,12 +502,20 @@
       <workItem from="1589964724819" duration="3629000" />
       <workItem from="1590105681577" duration="1406000" />
       <workItem from="1590127438155" duration="2703000" />
-      <workItem from="1590134240144" duration="1890000" />
+      <workItem from="1590134240144" duration="2113000" />
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1590136389729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590136389729</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29583000" />
+    <option name="totallyTimeSpent" value="29806000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -550,8 +528,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="566" y="0" width="812" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.225" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.225" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -572,7 +551,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32840723" />
       <window_info anchor="bottom" id="Thumbnails" order="14" weight="0.32890365" />
       <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32890365" />
       <window_info anchor="bottom" id="Messages" order="16" weight="0.32890365" />
@@ -625,6 +604,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SpringMVC004.iml">
@@ -807,7 +790,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/swjd/controller/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="176">
           <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
