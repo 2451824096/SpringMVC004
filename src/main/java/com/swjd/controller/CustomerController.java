@@ -16,7 +16,7 @@ public class CustomerController {
 @Autowired
    CustomerService customerService;
 
-    @RequestMapping("/toMain")
+    @RequestMapping("/toMainn")
     public String toMain(Model model){
         List<Customer>list=new ArrayList<>();
         list=customerService.getList();
